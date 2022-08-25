@@ -3,9 +3,7 @@
   <name>Geralt</name>
   <gender>MALE</gender>
   <gold>12</gold>
-  <location>Save\Hall.xml</location>
-  <partyMember>wolf</partyMember>
-  <partyMember>joss</partyMember>
+  <location>GameData\Village.xml</location>
   <item>
     <keyword>crowns</keyword>
     <description>12</description>

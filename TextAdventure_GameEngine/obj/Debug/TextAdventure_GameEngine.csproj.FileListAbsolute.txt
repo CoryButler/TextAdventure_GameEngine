@@ -1,7 +1,6 @@
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\bin\Debug\TextAdventure_GameEngine.exe.config
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\bin\Debug\TextAdventure_GameEngine.exe
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\bin\Debug\TextAdventure_GameEngine.pdb
-C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\obj\Debug\TextAdventure_GameEngine.csprojAssemblyReference.cache
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\obj\Debug\TextAdventure_GameEngine.csproj.CoreCompileInputs.cache
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\obj\Debug\TextAdventure_GameEngine.exe
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\obj\Debug\TextAdventure_GameEngine.pdb
@@ -75,3 +74,4 @@ C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\bin\Debug
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\bin\Debug\Characters\nekker.xml
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\bin\Debug\Characters\witch.xml
 C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\bin\Debug\Characters\wolf.xml
+C:\Users\csb\Desktop\TextAdventure_GameEngine\TextAdventure_GameEngine\obj\Debug\TextAdventure_GameEngine.csproj.AssemblyReference.cache
